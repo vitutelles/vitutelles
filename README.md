@@ -1,3 +1,3 @@
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitutelles&layout=compact&theme=github_dark)
+[![card](https://github-readme-stats.vercel.app/api?username=vitutelles&theme=default)](https://github.com/anuraghazra/github-readme-stats)
